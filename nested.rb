@@ -123,6 +123,6 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-programmer_hash[:alan_kay][:languages][1] = "Assembly"
-programmer_hash
+programmer_hash[:alan_kay][:known_for] = "Assembly"
+
 end
